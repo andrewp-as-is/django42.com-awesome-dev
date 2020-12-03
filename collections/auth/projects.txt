@@ -1,0 +1,6 @@
+Authlib
+django-allauth
+django-oauth-toolkit
+oauthlib
+python-oauth2
+python-social-auth

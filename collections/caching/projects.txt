@@ -1,0 +1,6 @@
+Beaker
+django-cache-machine
+django-cacheops
+dogpile.cache
+HermesCache
+pylibmc

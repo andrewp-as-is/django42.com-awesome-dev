@@ -1,0 +1,4 @@
+flake8
+pylama
+pylint
+wemake-python-styleguide

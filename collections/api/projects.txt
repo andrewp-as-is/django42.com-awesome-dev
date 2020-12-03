@@ -1,0 +1,11 @@
+dj-rest-auth
+django-cors-headers
+django-ninja
+django-rest-framework
+django-rest-knox
+django-tastypie
+django-webpack-loader
+Djaq
+djoser
+drf-yasg
+graphene-django
